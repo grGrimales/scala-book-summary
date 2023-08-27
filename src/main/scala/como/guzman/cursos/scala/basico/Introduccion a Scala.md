@@ -95,7 +95,7 @@ Estos ejemplos ilustran algunas de las características discutidas en el capítu
 importante notar que Scala ha evolucionado con el tiempo, y algunas bibliotecas o características pueden haber cambiado
 en versiones más recientes del lenguaje.
 ---
-## Sección 1.2: "What makes Scala scalable?"*
+## Sección 1.2: "WQue hace a Scala un leguaje Scalable"*
 
 - **Combinación de Paradigmas**: Una de las principales características que hace a Scala escalable es su combinación de
   programación orientada a objetos y programación funcional.

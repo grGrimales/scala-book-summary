@@ -192,8 +192,6 @@ Este capítulo introduce los conceptos básicos de Scala a través de ejemplos p
 - **Concatenación de cadenas**: En Scala, puedes concatenar cadenas usando el operador `+`, similar a otros lenguajes
   como Java.
 
-¡Claro! Aquí tienes un resumen del capítulo 2.5 con ejemplos prácticos:
-
 ---
 
 ## 2.5 Paso 5: Bucle con "while"; decide con "if"
